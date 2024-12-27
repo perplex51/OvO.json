@@ -1,0 +1,7 @@
+{
+"name": "Nalla Stake Pool",
+"description": "Helping make Cardano decentralised",
+"ticker": "Nalla",
+"homepage": "https://cardano-nalla.carrd.co",
+"extended": "https://raw.githubusercontent.com/perplex51/extended.github.io/refs/heads/main/extended.json"
+}
